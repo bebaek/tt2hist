@@ -6,4 +6,4 @@ Calculate a 2-, 3-, or 4-dimensional correlation function from time-tagged event
 
 - Tested with MS Visual C++ Express 2010. Both 32- and 64-bit work.
 
-- As in many other scientific software, this was written in C++ for a performance reason. Parallel computing could be the next step to improve this further.
+- As in many other scientific programs, this was written in C++ for a performance reason. Parallel computing could be the next step to improve this further.
